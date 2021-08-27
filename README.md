@@ -1,8 +1,8 @@
-# SnowCrash official token
+# SnowCrash DAO official token
 
 [![MIT License](misc/License-MIT-green.svg)](https://github.com/SnowCrashDAO/snowcrash-tokens/blob/main/LICENSE)
 
-SnowCrash official token.
+SnowCrash DAO official token.
 
 [![SnowCrash DAO](misc/SnowCrashDAO-canalblue-blue-min-100x50.svg)](https://snowcrash.finance/)
 
