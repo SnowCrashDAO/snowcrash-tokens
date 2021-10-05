@@ -6,7 +6,7 @@ SnowCrash DAO official token.
 
 [![SnowCrash DAO](misc/SnowCrashDAO-canalblue-blue-min-100x50.svg)](https://snowcrash.finance/)
 
-# $Nora
+## $Nora
 
 Name: SnowCrash Token  
 Symbol: Nora  
@@ -15,3 +15,11 @@ Network: Binance Smart Chain (BSC)
 Contract: [0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0](https://bscscan.com/token/0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0)
 
 [Buy Nora](https://snowcrash.finance/nora/)
+
+## $PushDoge
+
+Name: Pushinka Doge Token  
+Symbol: PushDoge  
+Total Supply: 3,844,000,000,000 PushDoge  
+Network: Binance Smart Chain (BSC)  
+Contract: [0x75c7651ecdabbea371109f999e57711540f0ec27](https://bscscan.com/token/0x75c7651ecdabbea371109f999e57711540f0ec27)
